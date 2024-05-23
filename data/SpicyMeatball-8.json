@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "SpicyMeatball",
+  "risk": "2",
+  "title": "Previous user rewards can be affected by the various changes in the token configs",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/8"
+}
