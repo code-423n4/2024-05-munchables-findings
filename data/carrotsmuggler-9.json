@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "carrotsmuggler",
+  "risk": "3",
+  "title": "Lowering `lockDuration` can be blocked by any user",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/9"
+}
