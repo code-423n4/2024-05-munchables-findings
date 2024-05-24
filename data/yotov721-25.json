@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "yotov721",
+  "risk": "3",
+  "title": "An attacker could DoS a user from unlocking tokens by locking dust amounts on his behalf",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/25"
+}
