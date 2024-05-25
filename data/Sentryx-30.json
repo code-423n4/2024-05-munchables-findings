@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "Sentryx",
+  "risk": "3",
+  "title": "Lock manager cannot claim its ETH yield and will lose if forever",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/30"
+}
