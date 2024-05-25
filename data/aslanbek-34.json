@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "aslanbek",
+  "risk": "2",
+  "title": "Feeds may unintentionally approve/disapprove price for a different set of contracts",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/34"
+}
