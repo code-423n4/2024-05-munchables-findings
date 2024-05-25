@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "Sentryx",
+  "risk": "2",
+  "title": "Locking before unlocking will force users to wait a full lock duration period again for previously locked amounts",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/32"
+}
