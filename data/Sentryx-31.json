@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "Sentryx",
+  "risk": "2",
+  "title": "Reconfiguring lockdrop can force unsuspecting users to lock tokens in a lock they did not intend to",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/31"
+}
