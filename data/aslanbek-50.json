@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "aslanbek",
+  "risk": "2",
+  "title": "No incentive to lock for more than minLockAmount; contrary to documentation",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/50"
+}
