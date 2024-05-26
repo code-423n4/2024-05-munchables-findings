@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "0x175",
+  "risk": "2",
+  "title": "lock() is vulnerable to a DoS attack",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/48"
+}
