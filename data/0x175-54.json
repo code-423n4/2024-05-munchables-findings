@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "0x175",
+  "risk": "2",
+  "title": "The protocol does not support tokens with high decimals",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/54"
+}
