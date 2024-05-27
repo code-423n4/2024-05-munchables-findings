@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "pfapostol",
+  "risk": "2",
+  "title": "The price feed cannot change its decision after calling  mistakenly approve.",
+  "issueId": 76,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/76"
+}
