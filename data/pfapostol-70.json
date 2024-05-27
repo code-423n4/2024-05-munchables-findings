@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "pfapostol",
+  "risk": "2",
+  "title": "User can reduce lock time and even bypass global minimum lock time",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/70"
+}
