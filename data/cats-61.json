@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "cats",
+  "risk": "3",
+  "title": "Locking/Unlocking is not compatible with rebasing tokens which leads to user funds being stuck",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/61"
+}
