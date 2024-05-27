@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "aslanbek",
+  "risk": "2",
+  "title": "lockDuration for new users will still be set to lockdrop.minLockDuration even after the Lockdrop period",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/75"
+}
