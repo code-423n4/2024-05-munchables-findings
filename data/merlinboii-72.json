@@ -1,0 +1,8 @@
+{
+  "contest": 379,
+  "handle": "merlinboii",
+  "risk": "3",
+  "title": "Players can can reduce the lock duration less than the current unlock time",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/72"
+}
