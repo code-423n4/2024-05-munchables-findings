@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Tigerfrake",
+  "risk": "2",
+  "title": "Any attempt to lock ETH fails",
+  "issueId": 336,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/336",
+  "originalIssueId": 17,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/17"
+}
