@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "brgltd",
+  "risk": "3",
+  "title": "Attacker can call `onBehalfOf` with 1 wei to extend lock period and prevent innocent user from unlocking",
+  "issueId": 144,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/144",
+  "originalIssueId": 561,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/561"
+}
