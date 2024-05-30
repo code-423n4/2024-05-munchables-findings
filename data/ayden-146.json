@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "ayden",
+  "risk": "3",
+  "title": "A malicious user can donate a dust amount of tokens to extend the target user's unlock time",
+  "issueId": 146,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/146",
+  "originalIssueId": 487,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/487"
+}
