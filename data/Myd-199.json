@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Myd",
+  "risk": "2",
+  "title": "Incorrect Calculation of Unlock Time in setLockDuration Function",
+  "issueId": 199,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/199",
+  "originalIssueId": 214,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/214"
+}
