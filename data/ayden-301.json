@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "ayden",
+  "risk": "2",
+  "title": "The protocol does not check for a zero duration",
+  "issueId": 301,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/301",
+  "originalIssueId": 239,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/239"
+}
