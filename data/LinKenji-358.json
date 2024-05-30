@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "LinKenji",
+  "risk": "2",
+  "title": "Unauthorized Token Locking in `lockOnBehalf` Function Allows Malicious Actors to Lock Tokens on Behalf of Other Users Without Permission",
+  "issueId": 358,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/358",
+  "originalIssueId": 305,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/305"
+}
