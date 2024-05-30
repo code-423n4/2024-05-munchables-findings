@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Bigsam",
+  "risk": "2",
+  "title": " Lockup Time in `lockedTokens` Contract can be reduced or set below the initial unlocktime.",
+  "issueId": 212,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/212",
+  "originalIssueId": 279,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/279"
+}
