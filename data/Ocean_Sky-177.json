@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Ocean_Sky",
+  "risk": "2",
+  "title": "No minimum lock duration could cause loss of harvestedSchnibbles",
+  "issueId": 177,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/177",
+  "originalIssueId": 496,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/496"
+}
