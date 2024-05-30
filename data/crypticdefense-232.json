@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "crypticdefense",
+  "risk": "3",
+  "title": "Users can change their `unlockTime` to unlock tokens earlier, breaking protocol invariant",
+  "issueId": 232,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/232",
+  "originalIssueId": 315,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/315"
+}
