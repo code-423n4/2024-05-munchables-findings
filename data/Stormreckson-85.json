@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Stormreckson",
+  "risk": "2",
+  "title": "Inability to Deactivate or Remove Malicious Tokens in `configureToken` Function",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/85",
+  "originalIssueId": 103,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/103"
+}
