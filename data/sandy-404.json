@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "sandy",
+  "risk": "3",
+  "title": "The entire locking/unlocking functionality can be DOS'ed.",
+  "issueId": 404,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/404",
+  "originalIssueId": 372,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/372"
+}
