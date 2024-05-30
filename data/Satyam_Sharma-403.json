@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Satyam_Sharma",
+  "risk": "3",
+  "title": "Tokens with more than 18 decimal points will cause issues",
+  "issueId": 403,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/403",
+  "originalIssueId": 189,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/189"
+}
