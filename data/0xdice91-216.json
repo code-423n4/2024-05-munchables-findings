@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xdice91",
+  "risk": "3",
+  "title": "`setLockDuration()` does not sufficiently validate the `duration` leading to reduction of previously set lock-up time.",
+  "issueId": 216,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/216",
+  "originalIssueId": 230,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/230"
+}
