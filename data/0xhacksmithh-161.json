@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xhacksmithh",
+  "risk": "3",
+  "title": "A Malicious User Can Lock A Regular User's Fund For Infinite Of Time via Frontrunning his `unlock()` Tx",
+  "issueId": 161,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/161",
+  "originalIssueId": 201,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/201"
+}
