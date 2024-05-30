@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "TECHFUND",
+  "risk": "2",
+  "title": "lockOnBehalf() is operating on the tokens of msg.sender",
+  "issueId": 303,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/303",
+  "originalIssueId": 15,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/15"
+}
