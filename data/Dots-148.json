@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Dots",
+  "risk": "3",
+  "title": "lockOnBehalf function can be used to permanently prevent a user from unlocking their tokens",
+  "issueId": 148,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/148",
+  "originalIssueId": 367,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/367"
+}
