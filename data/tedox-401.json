@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "tedox",
+  "risk": "3",
+  "title": "Number of NFTs can overflow",
+  "issueId": 401,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/401",
+  "originalIssueId": 143,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/143"
+}
