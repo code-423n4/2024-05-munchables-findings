@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "MrPotatoMagic",
+  "risk": "2",
+  "title": "Function setLockDuration() incorrectly validates new duration against unlock time",
+  "issueId": 204,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/204",
+  "originalIssueId": 515,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/515"
+}
