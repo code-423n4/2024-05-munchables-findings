@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "swizz",
+  "risk": "3",
+  "title": "A price feed role owner can remove previously set proposed USD prices at will by constantly setting new proposals and deleting the old one, possibly never allowing a proposal to actually ever go through",
+  "issueId": 340,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/340",
+  "originalIssueId": 283,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/283"
+}
