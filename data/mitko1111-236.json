@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "mitko1111",
+  "risk": "3",
+  "title": "Lock time can be set before current unlock time",
+  "issueId": 236,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/236",
+  "originalIssueId": 108,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/108"
+}
