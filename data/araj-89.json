@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "araj",
+  "risk": "3",
+  "title": "`setLockDuration` reduces the `unlockTime` due to wrong calculation",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/89",
+  "originalIssueId": 166,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/166"
+}
