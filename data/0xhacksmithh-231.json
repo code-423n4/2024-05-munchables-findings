@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xhacksmithh",
+  "risk": "3",
+  "title": "A User can decrease his `lockingPeriod` significantly and by pass it via calling `setLockDuration()` with well crafted `_duration` parameter.",
+  "issueId": 231,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/231",
+  "originalIssueId": 210,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/210"
+}
