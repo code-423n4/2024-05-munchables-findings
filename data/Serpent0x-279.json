@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Serpent0x",
+  "risk": "2",
+  "title": "Missing Setter Function Initialization in LockManager Constructo",
+  "issueId": 279,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/279",
+  "originalIssueId": 87,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/87"
+}
