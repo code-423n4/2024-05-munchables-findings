@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "LinKenji",
+  "risk": "2",
+  "title": "Insufficient Contract Balance Handling in unlock Function Causes Potential Loss of Funds and Inconsistent State",
+  "issueId": 311,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/311",
+  "originalIssueId": 302,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/302"
+}
