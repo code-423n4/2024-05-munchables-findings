@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "twcctop",
+  "risk": "2",
+  "title": "Malicious can dos other user's unlock function by lock 1 wei token",
+  "issueId": 131,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/131",
+  "originalIssueId": 321,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/321"
+}
