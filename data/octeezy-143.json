@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "octeezy",
+  "risk": "3",
+  "title": "Malicious user can extend unlockTime for ETH on behalf of another user by sending zero eth using lockOnBehalf.",
+  "issueId": 143,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/143",
+  "originalIssueId": 316,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/316"
+}
