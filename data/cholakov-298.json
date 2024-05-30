@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "cholakov",
+  "risk": "2",
+  "title": "Due to WETH transfer compatibility issue on Blast, users will not be able to lock their WETH",
+  "issueId": 298,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/298",
+  "originalIssueId": 11,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/11"
+}
