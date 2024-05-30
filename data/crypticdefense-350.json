@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "crypticdefense",
+  "risk": "2",
+  "title": "`lastlockTime` isnt updated when users call `setLockDuration()`",
+  "issueId": 350,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/350",
+  "originalIssueId": 317,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/317"
+}
