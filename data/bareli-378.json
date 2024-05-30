@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "bareli",
+  "risk": "2",
+  "title": "ERC20 tokens can have more than 18 decimals in getLockedWeightedValue.",
+  "issueId": 378,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/378",
+  "originalIssueId": 65,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/65"
+}
