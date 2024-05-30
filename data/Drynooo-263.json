@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Drynooo",
+  "risk": "3",
+  "title": "Attackers can pre-empt transactions to gain more rewards",
+  "issueId": 263,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/263",
+  "originalIssueId": 58,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/58"
+}
