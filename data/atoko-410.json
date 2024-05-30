@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "atoko",
+  "risk": "2",
+  "title": "Default `miniLockDuration` always  Used for Locking on Behalf of Others",
+  "issueId": 410,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/410",
+  "originalIssueId": 117,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/117"
+}
