@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Bozwkd",
+  "risk": "3",
+  "title": "`LockManager::_lock` allows for multiple locks without reducing the token amount, enabling you to accumulate more tokens than your original holdings.",
+  "issueId": 399,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/399",
+  "originalIssueId": 188,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/188"
+}
