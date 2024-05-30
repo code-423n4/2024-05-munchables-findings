@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "n4nika",
+  "risk": "3",
+  "title": "`unlockTime` gets set incorrectly in `setLockDuration`",
+  "issueId": 242,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/242",
+  "originalIssueId": 566,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/566"
+}
