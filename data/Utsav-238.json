@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Utsav",
+  "risk": "3",
+  "title": "`unlockTime` is mistakenly reduced while updating lockDuration in `setLockDuration` function",
+  "issueId": 238,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/238",
+  "originalIssueId": 202,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/202"
+}
