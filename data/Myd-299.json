@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Myd",
+  "risk": "2",
+  "title": "Incorrect calculations of the number of NFTs and the remainder when the `quantity` is less than `configuredToken.nftCost`.",
+  "issueId": 299,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/299",
+  "originalIssueId": 217,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/217"
+}
