@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Bauchibred",
+  "risk": "3",
+  "title": "Protocol assumes support for `balance changing outside transfers` tokens but in reality using this would break protocol",
+  "issueId": 277,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/277",
+  "originalIssueId": 40,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/40"
+}
