@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "stakog",
+  "risk": "2",
+  "title": "Lockup times can be reduced after being set, breaking core functionality",
+  "issueId": 215,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/215",
+  "originalIssueId": 587,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/587"
+}
