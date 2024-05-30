@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "lsaudit",
+  "risk": "2",
+  "title": "Malicious proposal may block the whole contract",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/94",
+  "originalIssueId": 179,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/179"
+}
