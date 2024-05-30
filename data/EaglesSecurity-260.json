@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "EaglesSecurity",
+  "risk": "2",
+  "title": "Missing validation for minLockDuration in configureLockdrop() could lead to malfunction of lock logic",
+  "issueId": 260,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/260",
+  "originalIssueId": 70,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/70"
+}
