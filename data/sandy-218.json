@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "sandy",
+  "risk": "3",
+  "title": "Malicious users can unlock token before minLockDuration by calling setLockDuration due to invalid unlockTime calculation in the setLockDuration() function.",
+  "issueId": 218,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/218",
+  "originalIssueId": 495,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/495"
+}
