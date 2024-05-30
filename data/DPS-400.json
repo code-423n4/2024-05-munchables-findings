@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "DPS",
+  "risk": "2",
+  "title": "PriceFeed will report stale prices ",
+  "issueId": 400,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/400",
+  "originalIssueId": 360,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/360"
+}
