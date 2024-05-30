@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "pamprikrumplikas",
+  "risk": "3",
+  "title": "Attacker can repeatedly lock minimal ETH/token amounts on behalf of other users to keep their funds locked forever",
+  "issueId": 163,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/163",
+  "originalIssueId": 403,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/403"
+}
