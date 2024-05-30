@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "niser93",
+  "risk": "2",
+  "title": "Once a player deposits an amount of a certain token, he/she cannot deposit a further quantity of the same token without resetting the lockDuration on the whole deposited amount",
+  "issueId": 255,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/255",
+  "originalIssueId": 560,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/560"
+}
