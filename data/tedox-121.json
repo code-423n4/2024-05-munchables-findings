@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "tedox",
+  "risk": "2",
+  "title": "Users can further increase another user's `unlockTime`",
+  "issueId": 121,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/121",
+  "originalIssueId": 152,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/152"
+}
