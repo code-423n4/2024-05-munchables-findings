@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "tonisives",
+  "risk": "2",
+  "title": "Allowance cannot be used to unlock",
+  "issueId": 318,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/318",
+  "originalIssueId": 412,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/412"
+}
