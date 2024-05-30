@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Kaysoft",
+  "risk": "2",
+  "title": "A malicious user can use the  `lockOnBehalf` function to extend the `_lockDuration` of other users ",
+  "issueId": 158,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/158",
+  "originalIssueId": 149,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/149"
+}
