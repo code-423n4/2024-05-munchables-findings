@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Circolors",
+  "risk": "3",
+  "title": "Malicious User can call `lockOnBehalf` repeatedly extend a users `unlockTime`, removing their ability to withdraw previously locked tokens",
+  "issueId": 165,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/165",
+  "originalIssueId": 335,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/335"
+}
