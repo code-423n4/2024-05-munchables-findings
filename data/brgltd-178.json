@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "brgltd",
+  "risk": "2",
+  "title": "Player can set a very small lockup time of 1 second depending on a frontrunning condition",
+  "issueId": 178,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/178",
+  "originalIssueId": 567,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/567"
+}
