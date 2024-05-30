@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "aycozynfada",
+  "risk": "2",
+  "title": "approveUSDPrice() increase usdUpdateProposal.approvalsCount even if approve threshold is not reached",
+  "issueId": 324,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/324",
+  "originalIssueId": 612,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/612"
+}
