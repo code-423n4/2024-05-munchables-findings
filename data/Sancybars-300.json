@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Sancybars",
+  "risk": "2",
+  "title": "any ERC20 asset sent directly into the contract will be lost forever as there's no mechanism to retrieve them ",
+  "issueId": 300,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/300",
+  "originalIssueId": 500,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/500"
+}
