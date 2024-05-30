@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xShax2nk_in",
+  "risk": "2",
+  "title": "Lack of Proposal Expiration Mechanism in proposeUSDPrice Function",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/92",
+  "originalIssueId": 349,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/349"
+}
