@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "Incompatibility of LockManager Contract with Blast's Rebasing Mechanism",
+  "issueId": 359,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/359",
+  "originalIssueId": 94,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/94"
+}
