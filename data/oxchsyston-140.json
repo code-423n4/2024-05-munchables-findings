@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "oxchsyston",
+  "risk": "2",
+  "title": "Users can be prevented fron unlocking their tokens through grieving attack ",
+  "issueId": 140,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/140",
+  "originalIssueId": 346,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/346"
+}
