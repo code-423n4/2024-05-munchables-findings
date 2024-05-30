@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "MrValioBg",
+  "risk": "2",
+  "title": "The lock() function will always revert if minLockDuration is bigger than the",
+  "issueId": 382,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/382",
+  "originalIssueId": 551,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/551"
+}
