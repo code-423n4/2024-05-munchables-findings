@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "fyamf",
+  "risk": "2",
+  "title": "Preventing users from unlocking by locking zero amount on behalf of them",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/145",
+  "originalIssueId": 73,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/73"
+}
