@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Janio",
+  "risk": "3",
+  "title": "Users can decrease lock duration and receive `Schnibbles` before expected time, impacting NFT minting and economics of the game",
+  "issueId": 229,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/229",
+  "originalIssueId": 45,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/45"
+}
