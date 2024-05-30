@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xrex",
+  "risk": "2",
+  "title": "Any other user can extend unsuspecting users' lock duration by locking 0 value tokens on their behalf",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/87",
+  "originalIssueId": 355,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/355"
+}
