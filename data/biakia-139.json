@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "biakia",
+  "risk": "3",
+  "title": "Potential Dos attack",
+  "issueId": 139,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/139",
+  "originalIssueId": 14,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/14"
+}
