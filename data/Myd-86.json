@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Myd",
+  "risk": "2",
+  "title": "Delete Operation on `usdUpdateProposal` Struct Does Not Remove It From Storage",
+  "issueId": 86,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/86",
+  "originalIssueId": 215,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/215"
+}
