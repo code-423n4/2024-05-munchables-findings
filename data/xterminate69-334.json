@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "xterminate69",
+  "risk": "3",
+  "title": "Lock will not update user position correctly and can cause theft of funds",
+  "issueId": 334,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/334",
+  "originalIssueId": 426,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/426"
+}
