@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "TheFabled",
+  "risk": "3",
+  "title": "Denial of Service (DoS) Attack by Extending Lock Periods via Repeated Small Deposits",
+  "issueId": 130,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/130",
+  "originalIssueId": 9,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/9"
+}
