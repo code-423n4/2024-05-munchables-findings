@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "choi",
+  "risk": "3",
+  "title": "Lack of Access Control: Manipulation of Roles when Proposing USD Price",
+  "issueId": 278,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/278",
+  "originalIssueId": 93,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/93"
+}
