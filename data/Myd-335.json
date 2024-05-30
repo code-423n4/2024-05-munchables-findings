@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Myd",
+  "risk": "2",
+  "title": "Incorrect Assignment of tokenOwner Variable in lockOnBehalf Function",
+  "issueId": 335,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/335",
+  "originalIssueId": 216,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/216"
+}
