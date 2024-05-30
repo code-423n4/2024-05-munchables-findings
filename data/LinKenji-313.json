@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "LinKenji",
+  "risk": "2",
+  "title": "Incorrect Incrementation of `_usdProposalId` Leads to Inconsistent Approval Tracking and Potential Unauthorized Price Updates",
+  "issueId": 313,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/313",
+  "originalIssueId": 295,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/295"
+}
