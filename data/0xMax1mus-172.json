@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xMax1mus",
+  "risk": "3",
+  "title": "Manipulation of `unlockTime` of other users using `LockManager.sol::lockOnBehalf` function",
+  "issueId": 172,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/172",
+  "originalIssueId": 261,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/261"
+}
