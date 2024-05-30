@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "iamandreiski",
+  "risk": "2",
+  "title": "If minimum/maximum lock amounts are increased/decreased, they can be bypassed outside of lockdrop events",
+  "issueId": 175,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/175",
+  "originalIssueId": 273,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/273"
+}
