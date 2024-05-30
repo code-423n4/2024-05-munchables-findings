@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "fyamf",
+  "risk": "3",
+  "title": "Reducing the unlock time maliciously because wrong implementation of `setLockDuration`",
+  "issueId": 222,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/222",
+  "originalIssueId": 72,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/72"
+}
