@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "SovaSlava",
+  "risk": "2",
+  "title": "PriceFeed may approve the wrong proposal",
+  "issueId": 91,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/91",
+  "originalIssueId": 167,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/167"
+}
