@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "djanerch",
+  "risk": "3",
+  "title": "Users Can Lock and Unlock Within 1 Second",
+  "issueId": 186,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/186",
+  "originalIssueId": 159,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/159"
+}
