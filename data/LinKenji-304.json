@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "LinKenji",
+  "risk": "2",
+  "title": "Incorrect Condition in `_execUSDPriceUpdate` Function May Cause Inconsistent USD Price Updates",
+  "issueId": 304,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/304",
+  "originalIssueId": 299,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/299"
+}
