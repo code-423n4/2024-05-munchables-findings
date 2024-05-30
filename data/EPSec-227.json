@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "EPSec",
+  "risk": "3",
+  "title": "High 01 User Can Manipulate Unlock Time",
+  "issueId": 227,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/227",
+  "originalIssueId": 272,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/272"
+}
