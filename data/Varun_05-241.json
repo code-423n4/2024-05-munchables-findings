@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Varun_05",
+  "risk": "3",
+  "title": "Unlock time is set to wrong value thus allowing to reduce the unlock time even after implementing the right checks.",
+  "issueId": 241,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/241",
+  "originalIssueId": 504,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/504"
+}
