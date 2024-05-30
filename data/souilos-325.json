@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "souilos",
+  "risk": "2",
+  "title": "Users cannot withdraw their locked tokens if the contract is paused",
+  "issueId": 325,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/325",
+  "originalIssueId": 534,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/534"
+}
