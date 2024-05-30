@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "AvantGard",
+  "risk": "2",
+  "title": "Subsequent token locks extend the `unlockTime` for all previously locked tokens.",
+  "issueId": 259,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/259",
+  "originalIssueId": 577,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/577"
+}
