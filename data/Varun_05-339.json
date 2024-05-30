@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Varun_05",
+  "risk": "3",
+  "title": "unlock function also uses notpaused modifier thus it can prevent the user to withdraw their tokens.",
+  "issueId": 339,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/339",
+  "originalIssueId": 538,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/538"
+}
