@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "bareli",
+  "risk": "2",
+  "title": "There should be a limit on \"setUSDThresholds\" in LockManager",
+  "issueId": 390,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/390",
+  "originalIssueId": 64,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/64"
+}
