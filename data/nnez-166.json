@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "nnez",
+  "risk": "3",
+  "title": "`lockOnBehalf` can be used to extend other users' lock perpetually",
+  "issueId": 166,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/166",
+  "originalIssueId": 48,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/48"
+}
