@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Myd",
+  "risk": "2",
+  "title": "Incorrect Incrementation of `_usdProposalId` Leads to Approval Tracking Issues",
+  "issueId": 289,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/289",
+  "originalIssueId": 212,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/212"
+}
