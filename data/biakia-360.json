@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "biakia",
+  "risk": "3",
+  "title": "The yield of `USDB` and `WETH` will be locked in the `LockManager`",
+  "issueId": 360,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/360",
+  "originalIssueId": 8,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/8"
+}
