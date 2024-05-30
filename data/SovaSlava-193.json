@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "SovaSlava",
+  "risk": "2",
+  "title": "The user can reduce the lock duration",
+  "issueId": 193,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/193",
+  "originalIssueId": 170,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/170"
+}
