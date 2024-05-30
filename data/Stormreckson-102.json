@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Stormreckson",
+  "risk": "3",
+  "title": "Lock Duration Can be Extended Beyond The Maximum Lock Duration ",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/102",
+  "originalIssueId": 105,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/105"
+}
