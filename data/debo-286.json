@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "debo",
+  "risk": "2",
+  "title": "Pess-Read-Only-Reentrancy",
+  "issueId": 286,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/286",
+  "originalIssueId": 29,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/29"
+}
