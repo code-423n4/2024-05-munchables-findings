@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "DPS",
+  "risk": "2",
+  "title": "The `LockManager.sol` misses functionality for removing a `configuredTokenContracts`",
+  "issueId": 110,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/110",
+  "originalIssueId": 361,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/361"
+}
