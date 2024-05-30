@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "bigtone",
+  "risk": "3",
+  "title": "Users can unlock the entire amount of locked tokens if desired after one block.",
+  "issueId": 214,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/214",
+  "originalIssueId": 199,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/199"
+}
