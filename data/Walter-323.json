@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Walter",
+  "risk": "2",
+  "title": "Incorrect Weighted Average Calculation in getLockedWeightedValue",
+  "issueId": 323,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/323",
+  "originalIssueId": 277,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/277"
+}
