@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "LinKenji",
+  "risk": "2",
+  "title": "Incorrect Assumption in `setUSDThresholds` Function May Lead to Unintended Behavior and Proposal Inconsistencies",
+  "issueId": 283,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/283",
+  "originalIssueId": 294,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/294"
+}
