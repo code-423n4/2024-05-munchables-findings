@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "aua_oo7",
+  "risk": "3",
+  "title": "Lack of _quantity Check in lock and lockOnBehalf Functions.",
+  "issueId": 387,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/387",
+  "originalIssueId": 573,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/573"
+}
