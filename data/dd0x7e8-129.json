@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "dd0x7e8",
+  "risk": "3",
+  "title": "Anyone can maliciously extend another account's unlock time.",
+  "issueId": 129,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/129",
+  "originalIssueId": 137,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/137"
+}
