@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "xterminate69",
+  "risk": "2",
+  "title": "Token configure can accept tokens with more or less than 18 decimals",
+  "issueId": 375,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/375",
+  "originalIssueId": 461,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/461"
+}
