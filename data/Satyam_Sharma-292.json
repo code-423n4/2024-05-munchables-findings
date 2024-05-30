@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Satyam_Sharma",
+  "risk": "3",
+  "title": "user can unlocked token in the same unlock time due to the operator used to check against block.timestamp.",
+  "issueId": 292,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/292",
+  "originalIssueId": 98,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/98"
+}
