@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Eeyore",
+  "risk": "3",
+  "title": "Unlock times can be reduced to zero by the use of `setLockDuration()` function.",
+  "issueId": 190,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/190",
+  "originalIssueId": 160,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/160"
+}
