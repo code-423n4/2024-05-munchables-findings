@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Bigsam",
+  "risk": "2",
+  "title": "Risk of Inaccurate Locked Weighted Value Due to Unsupported Decimals",
+  "issueId": 370,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/370",
+  "originalIssueId": 304,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/304"
+}
