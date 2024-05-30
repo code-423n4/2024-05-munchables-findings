@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Mahmud",
+  "risk": "2",
+  "title": "Locking Tokens Outside `Lockdrop` Period Without Benefits",
+  "issueId": 273,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/273",
+  "originalIssueId": 599,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/599"
+}
