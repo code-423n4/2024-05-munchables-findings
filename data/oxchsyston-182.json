@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "oxchsyston",
+  "risk": "2",
+  "title": "No minimum lock duration check in function setLockDuration::",
+  "issueId": 182,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/182",
+  "originalIssueId": 333,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/333"
+}
