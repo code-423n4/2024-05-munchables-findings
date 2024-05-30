@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "swizz",
+  "risk": "2",
+  "title": "The setLockDuration() function allows users to be able set new reduced lock up times, leading to false events being emitted",
+  "issueId": 201,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/201",
+  "originalIssueId": 257,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/257"
+}
