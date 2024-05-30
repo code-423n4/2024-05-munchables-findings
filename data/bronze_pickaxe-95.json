@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "bronze_pickaxe",
+  "risk": "2",
+  "title": "Rebase tokens can lead to funds lost",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/95",
+  "originalIssueId": 10,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/10"
+}
