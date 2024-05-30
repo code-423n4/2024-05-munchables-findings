@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Maushish",
+  "risk": "2",
+  "title": "Users can withdraw the native token by passing a zero address in `_unlock`.",
+  "issueId": 330,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/330",
+  "originalIssueId": 483,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/483"
+}
