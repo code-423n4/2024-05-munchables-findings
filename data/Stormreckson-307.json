@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Stormreckson",
+  "risk": "3",
+  "title": "configureLockdrop does not set the MinlockDuration allowing users to unlock at anytime",
+  "issueId": 307,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/307",
+  "originalIssueId": 51,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/51"
+}
