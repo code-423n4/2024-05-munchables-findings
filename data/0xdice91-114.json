@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xdice91",
+  "risk": "2",
+  "title": "Delete should not be done on a `struct` with a mapping inside it as it will lead to storage corruption.",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/114",
+  "originalIssueId": 391,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/391"
+}
