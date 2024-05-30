@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "souilos",
+  "risk": "2",
+  "title": "Spamming wrong price could disrupt protocol stability",
+  "issueId": 295,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/295",
+  "originalIssueId": 562,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/562"
+}
