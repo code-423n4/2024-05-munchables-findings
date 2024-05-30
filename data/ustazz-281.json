@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "ustazz",
+  "risk": "2",
+  "title": "'approveUSDPrice(uint256)' Function Contains Ineffective 'revert ProposerCannotApproveError()'",
+  "issueId": 281,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/281",
+  "originalIssueId": 297,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/297"
+}
