@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Evo",
+  "risk": "2",
+  "title": "configuredTokenContracts can be blocked from updating unlockTime in setLockDuration ",
+  "issueId": 357,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/357",
+  "originalIssueId": 536,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/536"
+}
