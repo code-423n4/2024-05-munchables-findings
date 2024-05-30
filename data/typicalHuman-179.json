@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "typicalHuman",
+  "risk": "3",
+  "title": "You can set lock duration lower that minLockDuration",
+  "issueId": 179,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/179",
+  "originalIssueId": 158,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/158"
+}
