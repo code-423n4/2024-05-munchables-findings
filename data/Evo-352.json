@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Evo",
+  "risk": "3",
+  "title": "unlock with partial quantity can cause user loss of rewards.",
+  "issueId": 352,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/352",
+  "originalIssueId": 542,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/542"
+}
