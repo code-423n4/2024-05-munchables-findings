@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xmystery",
+  "risk": "2",
+  "title": "Incorrect Lock Time Update in `setLockDuration()`",
+  "issueId": 211,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/211",
+  "originalIssueId": 314,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/314"
+}
