@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "lsaudit",
+  "risk": "2",
+  "title": "WETH compatibility issue on Blast chain",
+  "issueId": 345,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/345",
+  "originalIssueId": 182,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/182"
+}
