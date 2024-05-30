@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Mahmud",
+  "risk": "2",
+  "title": "Uniform USD Price Update for Multiple Tokens in `_execUSDPriceUpdate` Function",
+  "issueId": 271,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/271",
+  "originalIssueId": 605,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/605"
+}
