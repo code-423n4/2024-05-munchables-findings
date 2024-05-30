@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "honey-k12",
+  "risk": "2",
+  "title": "Lack of support for native USDB/WETH in `LockManager.sol`",
+  "issueId": 353,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/353",
+  "originalIssueId": 528,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/528"
+}
