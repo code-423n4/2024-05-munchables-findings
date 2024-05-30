@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Maushish",
+  "risk": "3",
+  "title": "User will lose on NFTs due to auto rebasing of USDB/WETH.",
+  "issueId": 354,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/354",
+  "originalIssueId": 512,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/512"
+}
