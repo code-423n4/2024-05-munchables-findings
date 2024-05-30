@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "araj",
+  "risk": "3",
+  "title": "Malicious user can `greif` an honest user by `depositing` asset on `behalf` of honest user",
+  "issueId": 157,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/157",
+  "originalIssueId": 154,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/154"
+}
