@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "niser93",
+  "risk": "3",
+  "title": "Players can send funds using the lock method even outside the lockdrop timeframe",
+  "issueId": 416,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/416",
+  "originalIssueId": 41,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/41"
+}
