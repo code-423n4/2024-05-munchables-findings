@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Varun_05",
+  "risk": "3",
+  "title": "Using lockOnBehalf function anybody can increase the lock up time of a user without transferring any token.",
+  "issueId": 115,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/115",
+  "originalIssueId": 516,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/516"
+}
