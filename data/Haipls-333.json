@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Haipls",
+  "risk": "3",
+  "title": "Quick executing `_execUSDPriceUpdate()` upon reaching the `APPROVE_THRESHOLD` prevents accumulating sufficient disapproval votes to reject the proposal and leads to the establishment of a price that should have been rejected",
+  "issueId": 333,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/333",
+  "originalIssueId": 195,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/195"
+}
