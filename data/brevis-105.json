@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "brevis",
+  "risk": "2",
+  "title": "Approver can not Disapprove USDPrice if Previously Approved Erroneously",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/105",
+  "originalIssueId": 238,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/238"
+}
