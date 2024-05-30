@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Myd",
+  "risk": "2",
+  "title": "Incorrect Calculation of deltaDecimal Value in getLockedWeightedValue Function for Tokens with More Than 18 Decimals",
+  "issueId": 250,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/250",
+  "originalIssueId": 220,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/220"
+}
