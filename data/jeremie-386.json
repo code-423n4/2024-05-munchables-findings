@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "jeremie",
+  "risk": "3",
+  "title": "The way you update the price of a token is wrong, because you don't use the price directly from an Oracle.",
+  "issueId": 386,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/386",
+  "originalIssueId": 464,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/464"
+}
