@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "adam-idarrha",
+  "risk": "3",
+  "title": "Attackers Can Indefinitely Relock User Funds ",
+  "issueId": 137,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/137",
+  "originalIssueId": 427,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/427"
+}
