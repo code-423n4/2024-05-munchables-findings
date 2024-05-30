@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "bareli",
+  "risk": "2",
+  "title": "wrong \"approvalsCount\"  in LockManager",
+  "issueId": 377,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/377",
+  "originalIssueId": 63,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/63"
+}
