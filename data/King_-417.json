@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "King_",
+  "risk": "2",
+  "title": "User gets no NFT from subsequent token locks when initial locked quantity is less than nft cost.",
+  "issueId": 417,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/417",
+  "originalIssueId": 597,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/597"
+}
