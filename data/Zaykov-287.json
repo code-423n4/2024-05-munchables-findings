@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Zaykov",
+  "risk": "2",
+  "title": "Potential Reentrancy Vulnerability in proposeUSDPrice Function",
+  "issueId": 287,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/287",
+  "originalIssueId": 193,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/193"
+}
