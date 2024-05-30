@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "lsaudit",
+  "risk": "2",
+  "title": "Protocol doesn't follow documentation. While docs states it supports high decimal tokens - protocol will revert when high decimal tokens are being used",
+  "issueId": 418,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/418",
+  "originalIssueId": 183,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/183"
+}
