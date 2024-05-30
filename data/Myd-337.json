@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Myd",
+  "risk": "2",
+  "title": "Unintended Update of USD Prices for Token Contracts with Non-Zero `nftCost`",
+  "issueId": 337,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/337",
+  "originalIssueId": 223,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/223"
+}
