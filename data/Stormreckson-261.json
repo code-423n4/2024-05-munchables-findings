@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Stormreckson",
+  "risk": "2",
+  "title": "Lockdrop Configuration Allows Setting End Time to Current Block Timestamp, Making Lockdrop Immediately Expired.",
+  "issueId": 261,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/261",
+  "originalIssueId": 52,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/52"
+}
