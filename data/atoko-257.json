@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "atoko",
+  "risk": "2",
+  "title": "Missing Deadline in lock function",
+  "issueId": 257,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/257",
+  "originalIssueId": 120,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/120"
+}
