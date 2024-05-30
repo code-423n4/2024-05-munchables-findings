@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "snakeeaterr",
+  "risk": "2",
+  "title": "lockedToken's unlockTime can be reduced by players by using setLockDuration at convenient times",
+  "issueId": 223,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/223",
+  "originalIssueId": 92,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/92"
+}
