@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "fandonov",
+  "risk": "3",
+  "title": "One user can lock on behalf of another user and reset the unlock time for the other user very often which will lead to stuck funds for the second user.",
+  "issueId": 119,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/119",
+  "originalIssueId": 83,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/83"
+}
