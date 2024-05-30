@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "MrPotatoMagic",
+  "risk": "2",
+  "title": "Schnibbles earned are lost if the token is deactivated",
+  "issueId": 100,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/100",
+  "originalIssueId": 556,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/556"
+}
