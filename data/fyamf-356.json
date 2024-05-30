@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "fyamf",
+  "risk": "3",
+  "title": "Wrong calculation of quantity and remainder leads to loss of fund",
+  "issueId": 356,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/356",
+  "originalIssueId": 74,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/74"
+}
