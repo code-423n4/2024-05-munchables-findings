@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "lsaudit",
+  "risk": "2",
+  "title": "It's not possible to remove previously added token",
+  "issueId": 112,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/112",
+  "originalIssueId": 181,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/181"
+}
