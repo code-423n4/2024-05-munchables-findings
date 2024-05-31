@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "xyz",
+  "risk": "2",
+  "title": "Missing validation for already disapproved proposal in approveUSDPrice function",
+  "issueId": 493,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/493",
+  "originalIssueId": 581,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/581"
+}
