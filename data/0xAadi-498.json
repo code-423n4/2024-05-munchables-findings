@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xAadi",
+  "risk": "3",
+  "title": "The `approveUSDPrice()` Function Allows a Price Feed Updater to Approve a Proposal After Disapproving It Without Decreasing `disapprovalsCount`",
+  "issueId": 498,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/498",
+  "originalIssueId": 502,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/502"
+}
