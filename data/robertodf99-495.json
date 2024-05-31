@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "robertodf99",
+  "risk": "2",
+  "title": "Missing disapproval check in `LockManager.sol::approveUSDPrice` allows simultaneous approval and disapproval of a price proposal",
+  "issueId": 495,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/495",
+  "originalIssueId": 250,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/250"
+}
