@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "avoloder",
+  "risk": "2",
+  "title": "A PriceFeed role can disapprove and approve USD price at the same time, which should not be possible",
+  "issueId": 483,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/483",
+  "originalIssueId": 82,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/82"
+}
