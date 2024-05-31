@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "JanuaryPersimmon2024",
+  "risk": "3",
+  "title": "The missing assertion of a boolean return value of `transferFrom` allows draining the whole market of a token if the token doesn't revert on failures, but just returns \"false\"",
+  "issueId": 530,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/530",
+  "originalIssueId": 37,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/37"
+}
