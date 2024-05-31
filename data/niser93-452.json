@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "niser93",
+  "risk": "3",
+  "title": "When a player calls the lock() method outside the lockdrop timeframe, he/she loses the remainder amount",
+  "issueId": 452,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/452",
+  "originalIssueId": 38,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/38"
+}
