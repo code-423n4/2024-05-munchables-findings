@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Myd",
+  "risk": "2",
+  "title": "Silent Token Transfer Failure in LockManager Contract Leads to Incorrect Accounting and Potential Loss of Funds",
+  "issueId": 528,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/528",
+  "originalIssueId": 218,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/218"
+}
