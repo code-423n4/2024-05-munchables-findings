@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "adam-idarrha",
+  "risk": "2",
+  "title": "Price Feeds can disapprove and approve the same proposal",
+  "issueId": 501,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/501",
+  "originalIssueId": 369,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/369"
+}
