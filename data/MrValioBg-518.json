@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "MrValioBg",
+  "risk": "3",
+  "title": "Unlocking tokens can lead to user permanently losing his locked tokens.",
+  "issueId": 518,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/518",
+  "originalIssueId": 594,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/594"
+}
