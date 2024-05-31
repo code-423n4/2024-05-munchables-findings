@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "iamandreiski",
+  "risk": "3",
+  "title": "Users with expired locks who haven't withdrawn their tokens will receive the same benefits as if their tokens are locked",
+  "issueId": 471,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/471",
+  "originalIssueId": 385,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/385"
+}
