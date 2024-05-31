@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "ilchovski",
+  "risk": "2",
+  "title": "Problematic handling of token price updates",
+  "issueId": 428,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/428",
+  "originalIssueId": 387,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/387"
+}
