@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Mahmud",
+  "risk": "2",
+  "title": "Approval After Disapproval in `approveUSDPrice` Function",
+  "issueId": 505,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/505",
+  "originalIssueId": 579,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/579"
+}
