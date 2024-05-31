@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "dhank",
+  "risk": "2",
+  "title": "A User can Approve the proposed Price even though he has disapproved before and no decrement is done for disapprovalCounts.",
+  "issueId": 489,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/489",
+  "originalIssueId": 491,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/491"
+}
