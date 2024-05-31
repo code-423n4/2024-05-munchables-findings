@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Rhaydden",
+  "risk": "3",
+  "title": "Locked tokens may be irretrievable if no-revert-on-failure tokens are used ",
+  "issueId": 531,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/531",
+  "originalIssueId": 99,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/99"
+}
