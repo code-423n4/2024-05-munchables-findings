@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "honey-k12",
+  "risk": "3",
+  "title": "Users can increase their locked balance without actually transferring tokens when no-revert-on-failure tokens are used ",
+  "issueId": 526,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/526",
+  "originalIssueId": 521,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/521"
+}
