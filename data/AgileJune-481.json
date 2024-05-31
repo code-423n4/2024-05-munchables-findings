@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "AgileJune",
+  "risk": "2",
+  "title": "The approve/disapproveUsdPrice can be functioned unexpectedly",
+  "issueId": 481,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/481",
+  "originalIssueId": 459,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/459"
+}
