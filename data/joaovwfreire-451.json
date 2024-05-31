@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "joaovwfreire",
+  "risk": "2",
+  "title": "Locking outside of lockdrop periods erase one lock's remainder",
+  "issueId": 451,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/451",
+  "originalIssueId": 328,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/328"
+}
