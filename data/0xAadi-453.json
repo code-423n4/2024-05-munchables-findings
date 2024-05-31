@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xAadi",
+  "risk": "3",
+  "title": "`lockedToken.reminder` of a Previous Lock Resets to 0 If User/Attacker Locks Funds Between Two Lockdrop Events",
+  "issueId": 453,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/453",
+  "originalIssueId": 578,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/578"
+}
