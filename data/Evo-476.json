@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Evo",
+  "risk": "2",
+  "title": "PriceFeed role can disapprove and able to approve same proposal",
+  "issueId": 476,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/476",
+  "originalIssueId": 558,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/558"
+}
