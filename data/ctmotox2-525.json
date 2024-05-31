@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "ctmotox2",
+  "risk": "2",
+  "title": "Missing return value check for transferFrom in _lock function",
+  "issueId": 525,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/525",
+  "originalIssueId": 235,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/235"
+}
