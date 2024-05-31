@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "ZanyBonzy",
+  "risk": "3",
+  "title": "Use of payable.transfer and inability to specify a recipient will cause tokens to be locked forever if unlocker is a contract or multisig wallet",
+  "issueId": 467,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/467",
+  "originalIssueId": 493,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/493"
+}
