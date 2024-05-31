@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "MrPotatoMagic",
+  "risk": "2",
+  "title": "Remainder can be cleared by attacker or user themselves unintentionally",
+  "issueId": 459,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/459",
+  "originalIssueId": 588,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/588"
+}
