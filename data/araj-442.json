@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "araj",
+  "risk": "3",
+  "title": "`lockedToken.remainder` is not subtracted when a user `unlock()` his assets",
+  "issueId": 442,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/442",
+  "originalIssueId": 192,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/192"
+}
