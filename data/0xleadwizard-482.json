@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xleadwizard",
+  "risk": "2",
+  "title": "Disapprovals are not checked when approving price",
+  "issueId": 482,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/482",
+  "originalIssueId": 519,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/519"
+}
