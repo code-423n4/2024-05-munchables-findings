@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "SovaSlava",
+  "risk": "2",
+  "title": "When user unlock all tokens, remainder value does not delete",
+  "issueId": 441,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/441",
+  "originalIssueId": 173,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/173"
+}
