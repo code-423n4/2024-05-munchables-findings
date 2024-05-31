@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "n4nika",
+  "risk": "2",
+  "title": "No checks for return value of token transfer in `unlock()`",
+  "issueId": 521,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/521",
+  "originalIssueId": 507,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/507"
+}
