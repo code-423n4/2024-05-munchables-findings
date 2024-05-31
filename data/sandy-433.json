@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "sandy",
+  "risk": "3",
+  "title": "Rebasing rewards will get stuck on the contract forever or users may be unable to withdraw any tokens if rebasing tokens are deposited.",
+  "issueId": 433,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/433",
+  "originalIssueId": 344,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/344"
+}
