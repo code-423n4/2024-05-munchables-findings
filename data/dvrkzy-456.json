@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "dvrkzy",
+  "risk": "3",
+  "title": "User can lose his remainder for future lockdrop events",
+  "issueId": 456,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/456",
+  "originalIssueId": 146,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/146"
+}
