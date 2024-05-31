@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xBugSlayer",
+  "risk": "2",
+  "title": "Fee-on-tranfer tokens will mess up the accounting of the `LockManager` contract",
+  "issueId": 511,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/511",
+  "originalIssueId": 78,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/78"
+}
