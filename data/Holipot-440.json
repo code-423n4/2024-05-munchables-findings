@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Holipot",
+  "risk": "3",
+  "title": "The unlock method does not reset the 'remainder' variable, allowing NFTs to be minted with less locked funds.",
+  "issueId": 440,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/440",
+  "originalIssueId": 616,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/616"
+}
