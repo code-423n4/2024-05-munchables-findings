@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "AvantGard",
+  "risk": "3",
+  "title": "Missing logic to adjust `lockedToken.remainder` during `unlock` permits acquiring subsequent NFT without locking the required amount.",
+  "issueId": 443,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/443",
+  "originalIssueId": 554,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/554"
+}
