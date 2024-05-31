@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "twcctop",
+  "risk": "2",
+  "title": "approveUSDPrice/disapproveUSDPrice function param is price rather than proposal id",
+  "issueId": 429,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/429",
+  "originalIssueId": 322,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/322"
+}
