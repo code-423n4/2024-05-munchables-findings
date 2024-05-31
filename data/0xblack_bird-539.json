@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xblack_bird",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 539,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/539",
+  "originalIssueId": 532,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/532"
+}
