@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Bbash",
+  "risk": "3",
+  "title": "It is possible for a Role.PriceFeed to both approve and disapprove a proposal",
+  "issueId": 502,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/502",
+  "originalIssueId": 269,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/269"
+}
