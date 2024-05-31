@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "DPS",
+  "risk": "2",
+  "title": "The contract does not support rebasing tokens",
+  "issueId": 435,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/435",
+  "originalIssueId": 365,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/365"
+}
