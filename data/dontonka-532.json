@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "dontonka",
+  "risk": "3",
+  "title": "Contract doesn't handle ERC20 token which `don't revert on failure` which cause user fund loss",
+  "issueId": 532,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/532",
+  "originalIssueId": 248,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/248"
+}
