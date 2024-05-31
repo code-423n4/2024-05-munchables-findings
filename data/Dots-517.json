@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Dots",
+  "risk": "2",
+  "title": "Protocol doesn't work with fee on transfer tokens",
+  "issueId": 517,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/517",
+  "originalIssueId": 407,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/407"
+}
