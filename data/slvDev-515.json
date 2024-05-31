@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "slvDev",
+  "risk": "2",
+  "title": "Using Fee-On-Transfer Tokens will lead to user token loss.",
+  "issueId": 515,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/515",
+  "originalIssueId": 393,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/393"
+}
