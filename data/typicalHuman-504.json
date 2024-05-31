@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "typicalHuman",
+  "risk": "2",
+  "title": "PriceFeed can vote for disapproval and approval for the same proposal",
+  "issueId": 504,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/504",
+  "originalIssueId": 27,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/27"
+}
