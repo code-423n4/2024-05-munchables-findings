@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "prapandey031",
+  "risk": "3",
+  "title": "Return value of token.transferFrom() not checked",
+  "issueId": 529,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/529",
+  "originalIssueId": 621,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/621"
+}
