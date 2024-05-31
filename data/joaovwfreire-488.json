@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "joaovwfreire",
+  "risk": "2",
+  "title": "A price feed can disapprove and approve an USD price simultaneously",
+  "issueId": 488,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/488",
+  "originalIssueId": 330,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/330"
+}
