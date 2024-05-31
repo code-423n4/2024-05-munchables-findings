@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Audinarey",
+  "risk": "3",
+  "title": "Players can steal funds from the `lockManager` preventing other users form unlocking the full amount of their withdrawals",
+  "issueId": 438,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/438",
+  "originalIssueId": 485,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/485"
+}
