@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Beosin",
+  "risk": "2",
+  "title": "A Price Feed address can vote against and in favor of the same proposal at the same time",
+  "issueId": 472,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/472",
+  "originalIssueId": 337,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/337"
+}
