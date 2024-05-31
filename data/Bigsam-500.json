@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Bigsam",
+  "risk": "2",
+  "title": "Double Approval Vulnerability in Approve and Disapprove Update Mechanism",
+  "issueId": 500,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/500",
+  "originalIssueId": 285,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/285"
+}
