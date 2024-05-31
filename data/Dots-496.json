@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Dots",
+  "risk": "2",
+  "title": "A PriceFeed is able to both approve and disapprove usd price",
+  "issueId": 496,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/496",
+  "originalIssueId": 384,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/384"
+}
