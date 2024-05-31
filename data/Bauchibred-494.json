@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": " Protocol allows a voter to vote both `for` & `against` the same proposal which not only goes against natural voting logic and would cause for wrong approvals/disapprovals since the `>= DISAPPROVE_THRESHOLD`& `>= APPROVE_THRESHOLD` checks would use inflated data",
+  "issueId": 494,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/494",
+  "originalIssueId": 39,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/39"
+}
