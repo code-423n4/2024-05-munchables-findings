@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "Eeyore",
+  "risk": "2",
+  "title": "Missing check that proposal was not disapproved in the `approveUSDPrice()` function.",
+  "issueId": 487,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/487",
+  "originalIssueId": 161,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/161"
+}
