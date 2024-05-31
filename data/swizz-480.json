@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "swizz",
+  "risk": "2",
+  "title": "approveUSDPrice function does not check if a user already disapproved a specific price already, leading to a user casting multiple votes on the same price proposal",
+  "issueId": 480,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/480",
+  "originalIssueId": 311,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/311"
+}
