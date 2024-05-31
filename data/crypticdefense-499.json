@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "crypticdefense",
+  "risk": "2",
+  "title": "Proposers who disapproved USD price can still approve the same USD price, breaking protocol invariant",
+  "issueId": 499,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/499",
+  "originalIssueId": 318,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/318"
+}
