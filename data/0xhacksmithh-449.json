@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xhacksmithh",
+  "risk": "3",
+  "title": "A User can mint NFT with significantly less amount of token  cause `remainder` not handeled in `unlock()`",
+  "issueId": 449,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/449",
+  "originalIssueId": 227,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/227"
+}
