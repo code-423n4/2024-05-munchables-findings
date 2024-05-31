@@ -1,0 +1,10 @@
+{
+  "contest": 379,
+  "handle": "0xHash",
+  "risk": "3",
+  "title": "Use safeTransfer consistently instead of transfer",
+  "issueId": 527,
+  "issueUrl": "https://github.com/code-423n4/2024-05-munchables-findings/issues/527",
+  "originalIssueId": 3,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-munchables-validation/issues/3"
+}
